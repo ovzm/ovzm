@@ -1,17 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Victor+Zawacki+Monteiro;I'm+20+years+old;I+am+from+Porto+Alegre,+RS;I+study+Computer+Science+at+Uniritter;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor+Zawacki+Monteiro;Tenho+20+anos;Sou+de+Porto+Alegre,+RS;Estudo+Ciências+da+Computação+na+Uniritter;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<h1 align="left">About me!</h1>
+<h1 align="left">Sobre mim!</h1>
 
 ###
 
 <p align="left">
-🎓 Computer Science student at UniRitter, passionate about programming and technology. Always looking for new professional challenges, I feel confident with the knowledge I've acquired in the IT field and am constantly exploring new technologies and trends.
+🎓 Estudante de Ciência da Computação na UniRitter, com uma paixão por programação e tecnologia. Sempre em busca de novos desafios profissionais, sinto-me seguro com os conhecimentos que adquiri na área de TI e estou constantemente explorando novas tecnologias e tendências.
 
-💡 I am a creative, adaptable, and self-driven individual, which allows me to tackle complex problems effectively and innovatively. I am always ready to learn and grow, contributing to the success of the companies I work with.
+💡 Sou uma pessoa criativa, adaptável e autônoma, características que me permitem enfrentar problemas complexos de forma eficaz e inovadora. Estou sempre pronto para aprender e me desenvolver, contribuindo para o sucesso das empresas com as quais colaboro.
 
-🚀 Currently, I am focused on enhancing my programming skills and participating in projects that can positively impact both the company and my professional and personal growth.</p>
+🚀 No momento, estou focado em aprimorar minhas habilidades de programação e em fazer parte de projetos que possam impactar positivamente tanto a empresa quanto meu crescimento profissional e pessoal.</p>
 
 ###
 
